@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/16 00:08:21.000.744,=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/12 23:39:23.000.441,=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/06 20:30:22.000.988,=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 23:43:28.448,=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 23:44:31.193,C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\ACPDV.dproj=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/12 23:46:15.820,C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\HabGithub\ACPDV\src\view\acpv.view.principal.dfm=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/12 23:46:15.820,C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\HabGithub\ACPDV\src\view\acpv.view.principal.pas=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 23:46:35.099,C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\HabGithub\ACPDV\ACPDV.dproj=C:\Users\willi\OneDrive\Documentos\Embarcadero\Studio\Projects\ACPDV.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="RQ8NA09NWJL" Android64="RQ8NA09NWJL"/>
+	</ActiveMobileDevice>
+</BorlandProject>
